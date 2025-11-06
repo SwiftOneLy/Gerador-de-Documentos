@@ -1,4 +1,4 @@
-# 🧩 Gerador de Documentos Aleatórios em C  
+# 🧩  Buscador de Documentos Aleatórios em C  
 
 ![C](https://img.shields.io/badge/Language-C-blue?logo=c)
 ![Status](https://img.shields.io/badge/status-concluído-success)
@@ -9,7 +9,7 @@
 
 ## 🧠 Sobre o Projeto  
 
-O **Gerador de Documentos Aleatórios** é um programa em **C** desenvolvido para criar milhares de arquivos de texto (`.txt`) com conteúdo aleatório.  
+O **Buscador de Documentos Aleatórios** é um programa em **C** desenvolvido para criar milhares de arquivos de texto (`.txt`) com conteúdo aleatório.  
 Ele foi criado com o objetivo de **simular grandes volumes de dados** e **testar o desempenho** de aplicações que lidam com leitura e indexação de arquivos.  
 
 ---

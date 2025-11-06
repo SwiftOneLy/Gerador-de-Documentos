@@ -74,3 +74,4 @@ universidade linguagem cpu analise ...
 🧠 Simulações de processamento e leitura de arquivos <br>
 📚 Criação de datasets artificiais <br>
 ⚙️ Análise de desempenho e otimização de I/O <br>
+❌️ Possíveis erros corridos

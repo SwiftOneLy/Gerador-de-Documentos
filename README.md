@@ -40,12 +40,12 @@ docs/
 
 ### 2️⃣ Compilação  
 No terminal, use o comando:  
-```bash
+
 gcc gerar_docs.c -o gerar_docs
 3️⃣ Execução
 Após compilar, execute:
 
-bash
+```bash
 Copiar código
 ./gerar_docs
 O programa criará automaticamente a pasta docs/ e começará a gerar os arquivos.
@@ -66,10 +66,11 @@ Total de 10000 documentos criados em 18.47 segundos.
 computador estrutura dados algoritmo mini sistema busca desempenho 
 trabalho internet otimizacao binaria documento tempo projeto memoria 
 universidade linguagem cpu analise ...
+```
 
 💡 Possíveis Aplicações
 
-🧩 Testes de indexadores e motores de busca
-🧠 Simulações de processamento e leitura de arquivos
-📚 Criação de datasets artificiais
-⚙️ Análise de desempenho e otimização de I/O
+🧩 Testes de indexadores e motores de busca <br>
+🧠 Simulações de processamento e leitura de arquivos <br>
+📚 Criação de datasets artificiais <br>
+⚙️ Análise de desempenho e otimização de I/O <br>

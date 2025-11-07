@@ -61,12 +61,11 @@ Iniciando a criação de 10000 documentos...
 
 --- SUCESSO! ---
 Total de 10000 documentos criados em 18.47 segundos.
-
-📄 Exemplo de Arquivo Gerado (doc_00001.txt)
-computador estrutura dados algoritmo mini sistema busca desempenho 
-trabalho internet otimizacao binaria documento tempo projeto memoria 
-universidade linguagem cpu analise ...
 ```
+📄 Exemplo de Arquivo Gerado (doc_00001.txt) <BR>
+computador estrutura dados algoritmo mini sistema busca desempenho <br>
+trabalho internet otimizacao binaria documento tempo projeto memoria <br>
+universidade linguagem cpu analise ...<br>
 
 💡 Possíveis Aplicações
 
